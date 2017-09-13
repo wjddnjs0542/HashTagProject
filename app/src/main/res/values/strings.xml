@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">HashTagProject</string>
+
+    <!--버튼 텍스트-->
+    <string name="btn_hash_tag_add">해시태그 등록</string>
+
+    <!--힌트 텍스트-->
+    <string name="hint_hash_tag_add">해시태그를 작성해주세요.</string>
 </resources>
